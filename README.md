@@ -4,8 +4,8 @@ This is my own Python script for managing an academic timetable. The default ver
 ## Dependencies
 Running this script currently requires installation of:
 * **Python 3** ([project website](https://www.python.org/)); platform licensed [here](https://docs.python.org/3/license.html).
-* **numpy** ([project website](http://www.numpy.org/)); library provided under the BSD license.
-* **tabulate** ([GitHub repository](https://github.com/gregbanks/python-tabulate)); library provided under the MIT license.  
+* **numpy** ([project website](http://www.numpy.org/), [GitHub repository](https://github.com/numpy/numpy)); library provided under the BSD license.
+* **tabulate** ([PyPI project page](https://pypi.org/project/tabulate/), [GitHub repository](https://github.com/gregbanks/python-tabulate)); library provided under the MIT license.  
 
 
 Both are easily installed with **pip**:  
