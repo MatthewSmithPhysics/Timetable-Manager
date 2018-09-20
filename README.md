@@ -19,10 +19,10 @@ This software is provided under the MIT license.
 ## Installation
 With the above dependencies installed, installation is as easy as downloading **timetable.py** and placing it in your working folder.
 ## Running
-With Python 3 installed, running from the command line is elementary:
-'python timetable.py'
-or
-'python3 timetable.py'
+With Python 3 installed, running from the command line is elementary:  
+`python timetable.py`  
+or  
+`python3 timetable.py`
 ## Use
 The manager is based in the command line and a user has the following commands at their disposal:
 * **exit()**;  Exits the script.
