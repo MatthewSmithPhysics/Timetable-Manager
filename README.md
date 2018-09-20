@@ -8,11 +8,11 @@ Running this script currently requires installation of:
 * **tabulate** ([GitHub repository](https://github.com/gregbanks/python-tabulate)); library provided under the MIT license.  
 
 
-Both are easily installed with **pip**:
+Both are easily installed with **pip**:  
 `pip install numpy`  
-`pip install tabulate`  
+`pip install tabulate`    
 or  
-`pip3 install numpy`
+`pip3 install numpy`  
 `pip3 install tabulate`
 ## License
 This software is provided under the MIT license.
